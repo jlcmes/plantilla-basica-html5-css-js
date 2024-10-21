@@ -1,0 +1,24 @@
+
+/* HOJA DE ESTILOS */
+
+    /* Estilos que afectan a todo el documento */
+    * { 
+
+    }
+
+    /* Estilos para todo el body */
+    body{
+        
+    }
+        
+    /* Recuerda aplicar tus clases e identificadores 
+    
+    Para elementos de una clase: 
+    HTML: class="nombreClase" -> CSS: .nombreClase { ... }
+
+    Para elementos individuales por id:
+    HTML: id="miId" -> CSS: #miId { ... }
+
+    Cheatsheet: https://lenguajecss.com/css/cheatsheets/download/css3-cheatsheet-lite.pdf
+    
+    */
